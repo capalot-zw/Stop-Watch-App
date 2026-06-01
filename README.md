@@ -7,7 +7,7 @@ A stop watch APK(android only)
 A simple, functional stopwatch app with lap tracking built with Capacitor.
 
 ## Download
-- **APK**: [stopwatch-app.debug.v1.0.0.apk](./stopwatch-app.debug.v1.0.0.apk)
+- You can find the Apk in releases section
 
 ## Features
 - Start / Stop / Reset
